@@ -1,0 +1,16 @@
+revive-countdown: 180
+active-world:
+  - world
+floating-message:
+  - '&c【殞落狀態】'
+  - '&e等待復活時間&f<left-time>秒'
+revive-item-displayName: "&6蒼天之淚"
+revive-item-material: GHAST_TEAR
+revive-item-lore:
+  - '&a【使用方法】'
+  - '&f------------------------------------'
+  - '&f死亡後可直接使用此道具重塑肉身復活'
+  - '&f------------------------------------'
+revive-times-up-slot: 1
+revive-use-item-slot: 4
+revive-respawn-slot: 7

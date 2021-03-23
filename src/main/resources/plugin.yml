@@ -1,0 +1,14 @@
+name: revive
+version: 1.0
+author: rain
+main: com.github.rainhon.RevivePlugin
+api-version: 1.16
+depend: [HolographicDisplays]
+commands:
+  revive:
+    description: 给某玩家amout数量的复活物品
+    usage: /revive <playerName> <amount>
+permissions:
+  revive.giveitem:
+    description: 给玩家复活物品
+    default: op

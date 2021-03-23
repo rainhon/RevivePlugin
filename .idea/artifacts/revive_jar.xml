@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="revive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/revive_jar</output-path>
+    <root id="archive" name="revive.jar">
+      <element id="module-output" name="revive" />
+    </root>
+  </artifact>
+</component>
